@@ -1,2 +1,2 @@
 # string-manipulation
-A repository for small string manipulation algorithms for fun.
+A repository for small, fun string manipulation algorithms.
