@@ -1,0 +1,11 @@
+/Users/ryan/Documents/Projects/Technology/02_Interview_Questions/String_Manipulation/CS/StringManipulation/bin/Debug/netcoreapp2.1/StringManipulation.deps.json
+/Users/ryan/Documents/Projects/Technology/02_Interview_Questions/String_Manipulation/CS/StringManipulation/bin/Debug/netcoreapp2.1/StringManipulation.runtimeconfig.json
+/Users/ryan/Documents/Projects/Technology/02_Interview_Questions/String_Manipulation/CS/StringManipulation/bin/Debug/netcoreapp2.1/StringManipulation.runtimeconfig.dev.json
+/Users/ryan/Documents/Projects/Technology/02_Interview_Questions/String_Manipulation/CS/StringManipulation/bin/Debug/netcoreapp2.1/StringManipulation.dll
+/Users/ryan/Documents/Projects/Technology/02_Interview_Questions/String_Manipulation/CS/StringManipulation/bin/Debug/netcoreapp2.1/StringManipulation.pdb
+/Users/ryan/Documents/Projects/Technology/02_Interview_Questions/String_Manipulation/CS/StringManipulation/obj/Debug/netcoreapp2.1/StringManipulation.csprojAssemblyReference.cache
+/Users/ryan/Documents/Projects/Technology/02_Interview_Questions/String_Manipulation/CS/StringManipulation/obj/Debug/netcoreapp2.1/StringManipulation.csproj.CoreCompileInputs.cache
+/Users/ryan/Documents/Projects/Technology/02_Interview_Questions/String_Manipulation/CS/StringManipulation/obj/Debug/netcoreapp2.1/StringManipulation.AssemblyInfoInputs.cache
+/Users/ryan/Documents/Projects/Technology/02_Interview_Questions/String_Manipulation/CS/StringManipulation/obj/Debug/netcoreapp2.1/StringManipulation.AssemblyInfo.cs
+/Users/ryan/Documents/Projects/Technology/02_Interview_Questions/String_Manipulation/CS/StringManipulation/obj/Debug/netcoreapp2.1/StringManipulation.dll
+/Users/ryan/Documents/Projects/Technology/02_Interview_Questions/String_Manipulation/CS/StringManipulation/obj/Debug/netcoreapp2.1/StringManipulation.pdb
